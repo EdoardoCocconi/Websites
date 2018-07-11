@@ -1,0 +1,60 @@
+*{font-family: Arial, Helvetica, sans-serif}
+#header{
+    width: 90%;
+    max-width: 960px;
+    border: 1px solid black;
+    margin: auto;
+}
+
+#header h1 {
+    text-align: center;
+}
+
+#about {
+    width: 90%;
+    max-width: 960px;
+    margin: auto;
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#about a {
+    text-align: center;
+}
+
+/* #navbar {
+    width: 90%;
+    max-width: 960px;
+    margin: auto;
+    background-color: #3498db;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    margin: auto;
+}
+
+#navbar a:hover {
+    background-color: #2980b9
+} */
+
+
+.post {
+    box-shadow: 5px 5px 5px grey;
+    width: 90%;
+    max-width: 960px;
+    margin: auto;
+    padding: 20px;
+    box-sizing: border-box;
+    margin-top: 40px;
+}
+
+#footer{
+    text-align: center;
+}
