@@ -1,2 +1,2 @@
 # Websites
-This repository contains some basic websites I made.
+This repository contains some basic HTML and CSS exercises.
