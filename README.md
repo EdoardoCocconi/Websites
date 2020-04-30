@@ -4,4 +4,6 @@
 This repository contains some basic HTML and CSS exercises.
 
 <br/>
-ciao
+<br/>
+
+> *©  2019  Edoardo  M.  Cocconi  All  Rights  Reserved*
