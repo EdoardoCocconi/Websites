@@ -1,5 +1,7 @@
 ![Codecademy Banner](Assets/Codecademy.png)
 
+<br/>
+
 # Websites
 This repository contains some basic HTML and CSS exercises.
 
